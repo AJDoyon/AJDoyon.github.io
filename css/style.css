@@ -22,18 +22,20 @@ body{
 	height:100px;
 	border-radius:10px;
 	font-family:'Lato';
+	text-align:center;
 }
 
 .Gallery{
 	font-size:90px;
 	text-decoration: none;
+	margin-left:-1100px;
 	
 }
 
 .about{
 	font-size:90px;
 	text-decoration: none;
-	margin-left:625px;
+	margin-left:0px;
 	margin-top:-105px;
 	color:black;
 }
