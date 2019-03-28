@@ -49,3 +49,83 @@ body{
 	color:black;
 	
 }
+
+@media only screen and (max-width: 1024px){
+
+.Gallery{
+	font-size:70px;
+	text-decoration: none;
+	margin-left:-650px;
+	color:black;
+	
+}
+
+.about{
+	font-size:70px;
+	text-decoration: none;
+	margin-left:0px;
+	margin-top:-84px;
+	color:black;
+}
+
+.contact{
+	font-size:70px;
+	text-decoration: none;
+	margin-left:650px;
+	margin-top:-86px;
+	color:black;
+}
+
+}
+
+@media only screen and (max-width: 375px){
+
+.Name{
+	font-size:90px;
+	font-family:'Lato';
+	text-align:center;
+	margin-top:10px;
+}
+
+.Title{
+	font-size:30px;
+	font-family:'Lato';
+	text-align:center;
+	margin-top:-60px;
+}
+
+.Row{
+	background-color: grey;
+	width:100%;
+	height:300px;
+	border-radius:10px;
+	font-family:'Lato';
+	text-align:center;
+	margin-top:0px;
+}
+
+.Gallery{
+	font-size:70px;
+	text-decoration: none;
+	margin-left:0px;
+	color:black;
+	
+}
+
+.about{
+	font-size:70px;
+	text-decoration: none;
+	margin-left:0px;
+	margin-top:0px;
+	color:black;
+}
+
+.contact{
+	font-size:70px;
+	text-decoration: none;
+	margin-left:0px;
+	margin-top:0px;
+	color:black;
+}
+
+}
