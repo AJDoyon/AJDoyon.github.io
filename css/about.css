@@ -63,6 +63,23 @@ p{
 	color:white;
 }
 
+.resume{
+	text-decoration: none;
+	margin-left:50px;
+	font-size:20px;
+}
+
+.resumeblock{
+	text-decoration: none;
+	color:black;
+	margin-left:900px;
+	margin-top:-500px;
+}
+
+img{
+	width:42%;
+}
+
 @media only screen and (max-width: 1024px){
 	
 	.lifestory{
@@ -92,6 +109,25 @@ p{
 	margin-left:650px;
 	margin-top:-86px;
 	color:black;
+}
+
+
+
+.resume{
+	text-decoration: none;
+	margin-left:50px;
+	font-size:20px;
+}
+
+.resumeblock{
+	text-decoration: none;
+	color:black;
+	margin-left:650px;
+	margin-top:-500px;
+}
+
+img{
+	width:82%;
 }
 	
 
@@ -154,6 +190,23 @@ p{
 	font-family:'Lato';
 	text-align:center;
 	margin-top:-60px;
+}
+
+.resume{
+	text-decoration: none;
+	margin-left:50px;
+	font-size:20px;
+}
+
+.resumeblock{
+	text-decoration: none;
+	color:black;
+	margin-left:0px;
+	margin-top:0px;
+}
+
+img{
+	width:100%;
 }
 
 

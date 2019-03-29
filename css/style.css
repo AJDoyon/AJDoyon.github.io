@@ -50,6 +50,28 @@ body{
 	
 }
 
+img{
+	width:33%;
+}
+
+.Links{
+	margin-top: 50px;
+}
+
+.Explain{
+	padding:20px;
+	width:500px;
+	height:250px;
+	background-color:black;
+	border-radius: 10px;
+	color:white;
+}
+
+video{
+	float:right;
+	margin-top:-320px;
+}
+
 @media only screen and (max-width: 1024px){
 
 .Gallery{
@@ -74,6 +96,26 @@ body{
 	margin-left:650px;
 	margin-top:-86px;
 	color:black;
+}
+
+img{
+	width:33%;
+}
+
+video{
+	float:none;
+	margin-top:50px;
+	width:100%;
+	height:100%;
+}
+
+.Explain{
+	padding:20px;
+	width:950px;
+	height:250px;
+	background-color:black;
+	border-radius: 10px;
+	color:white;
 }
 
 }
@@ -127,5 +169,26 @@ body{
 	margin-top:0px;
 	color:black;
 }
+
+img{
+	width:100%;
+}
+
+video{
+	float:none;
+	margin-top:0px;
+	width:320px;
+	height:240px;
+}
+
+.Explain{
+	padding:20px;
+	width:300px;
+	height:360px;
+	background-color:black;
+	border-radius: 10px;
+	color:white;
+}
+
 
 }
