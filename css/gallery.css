@@ -59,6 +59,12 @@ img{
 	margin-top: 50px;
 }
 
+h1{
+	font-size: 80px;
+	text-align:center;
+	font-family:'Lato';
+}
+
 @media only screen and (max-width: 1024px){
 
 .Gallery{
