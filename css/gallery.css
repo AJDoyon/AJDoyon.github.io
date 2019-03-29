@@ -85,6 +85,10 @@ img{
 	color:black;
 }
 
+img{
+	width:33%;
+}
+
 }
 
 
@@ -137,5 +141,10 @@ img{
 	margin-top:0px;
 	color:black;
 }
+
+img{
+	width:100%;
+}
+
 
 }
