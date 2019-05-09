@@ -52,7 +52,8 @@ body{
 }
 
 .Info{
-
+margin-top:200px;
+	margin-left: 450px;
 }
 
 p{
@@ -62,7 +63,7 @@ p{
 
 img{
 	margin-top:0px;
-	margin-left: 20px;
+	margin-left: 0px;
 }
 
 @media only screen and (max-width: 1024px){
@@ -152,6 +153,15 @@ p{
 p{
 	font-size: 28px;
 	text-align:center;
+}
+
+.Info{
+margin-top:50px;
+	margin-left: 0px;
+}
+
+img{
+	width:100%;
 }
 
 }

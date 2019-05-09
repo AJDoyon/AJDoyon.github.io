@@ -30,6 +30,7 @@ body{
 	text-decoration: none;
 	margin-left:-1100px;
 	color:black;
+	font-family:'Lato';
 	
 }
 
@@ -39,6 +40,7 @@ body{
 	margin-left:0px;
 	margin-top:-108px;
 	color:black;
+	font-family:'Lato';
 }
 
 .contact{
@@ -47,7 +49,7 @@ body{
 	margin-left:1150px;
 	margin-top:-112px;
 	color:black;
-	
+	font-family:'Lato';
 }
 
 img{
@@ -62,9 +64,7 @@ img{
 	padding:20px;
 	width:500px;
 	height:250px;
-	background-color:black;
 	border-radius: 10px;
-	color:white;
 	font-family:'Lato';
 }
 
@@ -200,10 +200,10 @@ video{
 .Explain{
 	padding:20px;
 	width:300px;
-	height:360px;
-	background-color:black;
+	height:300px;
+	background-color:white;
 	border-radius: 10px;
-	color:white;
+	color:black;
 }
 
 
